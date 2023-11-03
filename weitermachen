@@ -1,0 +1,2 @@
+find implementieren ins Dockerfile um den pfad zur CMakeLists.txt zu finden
+find / -name '*CMakeLists.txt'
